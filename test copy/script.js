@@ -1,5 +1,5 @@
 // --- Backend API URL ---
-const API_URL = 'https://sahayata-ai-backend.onrender.com';
+const API_URL = 'https://sahayata-ai-project.onrender.com';
 // --- Page Navigation ---
 const dashboardPage = document.getElementById('dashboard-page');
 const activityPage = document.getElementById('activity-page');
